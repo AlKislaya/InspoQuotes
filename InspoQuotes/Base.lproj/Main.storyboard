@@ -29,14 +29,7 @@
                             <outlet property="delegate" destination="M1W-9v-lGA" id="Qgf-ho-cG4"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title=" InspoQuotes" id="rIb-ce-kVy">
-                        <barButtonItem key="rightBarButtonItem" title="Restore" id="J2Y-og-Rc8">
-                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                            <connections>
-                                <action selector="restorePressed:" destination="M1W-9v-lGA" id="iI0-kH-GAq"/>
-                            </connections>
-                        </barButtonItem>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" title=" InspoQuotes" id="rIb-ce-kVy"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1WA-Nv-d1Y" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
